@@ -9,6 +9,7 @@
               4.Opens different websites like youtube,google,stackoverflow etc...
               
 ## Modules required:-
+                    import pyaudio(pip install pyaudio)
                     import pyttsx3(pip install pyttsx3)
                     import datetime(pip install datetime)
                     import speech_recognition as sr(pip install speech_recognition)

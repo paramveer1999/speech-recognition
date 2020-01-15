@@ -15,4 +15,4 @@
                     import wikipedia(pip install wikipedia)
                     import webbrowser(pip install webbrowser)
                     import os(pip install os)
-                    import smtplib
+                    import smtplib(pip install smtplib)

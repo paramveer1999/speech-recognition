@@ -129,7 +129,7 @@ if __name__=="__main__":
             try:
                 speak("what should i say!")
                 content=takecommand()
-                to="pvsb19@gmail.com"
+                to="ADD GMAIL OF THE person to whom message is send"
                 sendemail(to,content)
                 speak("email has been sent")
 
